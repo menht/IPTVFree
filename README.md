@@ -44,7 +44,7 @@ Salvatore Vestita: [GitHub Profile](https://github.com/saso93)
 
 ##CONTRIBUTING
 
-If you want to contribute to the project fork it and open [Pull Request](https://github.com/michelelacorte/SwipeableCard/pulls), or contact developers by e-mail.
+If you want to contribute to the project fork it and open [Pull Request](https://github.com/michelelacorte/IPTVFree/pulls), or contact developers by e-mail.
 
 Each proposal will be accepted!
 
