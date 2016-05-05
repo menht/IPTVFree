@@ -40,7 +40,7 @@ Michele Lacorte: [GitHub Profile](https://github.com/michelelacorte) (micky1995g
 
 Davide Mantellini: [GitHub Profile](https://github.com/DavideMant)
  
-Salvatore Vestita: [GitHub Profile](https://github.com/saso93) 
+Salvatore Vestita: [GitHub Profile](https://github.com/saso93) (salvatore.vestita.1993@gmail.com)
 
 ##CONTRIBUTING
 
