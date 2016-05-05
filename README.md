@@ -38,7 +38,7 @@ Coming Soon!
 
 Michele Lacorte: [GitHub Profile](https://github.com/michelelacorte) (micky1995g@gmail.com)
 
-Davide Mantellini: [GitHub Profile](https://github.com/DavideMant)
+Davide Mantellini: [GitHub Profile](https://github.com/DavideMant) (mantellini.davide1995@gmail.com)
  
 Salvatore Vestita: [GitHub Profile](https://github.com/saso93) (salvatore.vestita.1993@gmail.com)
 
