@@ -1,6 +1,6 @@
 ![alt tag](http://s32.postimg.org/lcrg2kfph/Progetto_Icona_Copia.png) 
 
-<h2 align="center">Watch your all your favorite channel!!</h1>
+<h2 align="center">Watch all your favorite channel!!</h1>
 
 ##DOWNLOAD
 
