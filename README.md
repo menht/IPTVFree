@@ -50,6 +50,12 @@ Davide Mantellini: [GitHub Profile](https://github.com/DavideMant) (mantellini.d
  
 Salvatore Vestita: [GitHub Profile](https://github.com/saso93) (salvatore.vestita.1993@gmail.com)
 
+#####Third part library:
+
+deano2390 for [MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView) license [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+square for [Picasso](http://square.github.io/picasso/) license [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
 ##CONTRIBUTING
 
 If you want to contribute to the project fork it and open [Pull Request](https://github.com/michelelacorte/IPTVFree/pulls), or contact developers by e-mail.
