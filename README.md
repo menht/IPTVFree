@@ -32,11 +32,12 @@ Android API 14+
 
 **v1.0.0 (Coming Soon!!)**
 
-- Possibility to load custom playlist (.m3u, .m3u8) from SD and URL in My List category
-- Italian, English and Mixed (various nationality) category of channel update day to day!
+- Possibility to load custom playlist `(.m3u, .m3u8)` from SD and URL in `My List` category
+- `Italian`, `English` and `Mixed` (various nationality) category of channel update day to day!
 - Download playlist
 - Report broken channel and issue of application
-- Possibility to add channel to Favorite category
+- Possibility to add channel to `Favorite` category
+- System language supported `Italian` and `English`
 
 ##CREDITS
 
