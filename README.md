@@ -21,6 +21,7 @@
 ![alt tag](http://s32.postimg.org/cdi0frgo5/screen1.png) 
 ![alt tag](http://s32.postimg.org/5gaz0re3p/screen2.png) 
 ![alt tag](http://s32.postimg.org/uacjv8mcl/screen3.png) 
+![alt tag](http://s32.postimg.org/aud6gb6h1/screen5.png) 
 ![alt tag](http://s32.postimg.org/4bcs10j6t/screen4.png) 
 
 ##SYSTEM REQUIREMENT
@@ -39,6 +40,7 @@ Android API 14+
 - `Italian`, `English` and `Mixed` (various nationality) category of channel update day to day!
 - Download playlist
 - Report broken channel and issue of application
+- `SearchView` on Toolbar
 - Possibility to add channel to `Favorite` category
 - System language supported `Italian` and `English`
 
@@ -55,6 +57,8 @@ Salvatore Vestita: [GitHub Profile](https://github.com/saso93) (salvatore.vestit
 deano2390 for [MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView) license [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 square for [Picasso](http://square.github.io/picasso/) license [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+MiguelCatalan for [MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView) license [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 ##CONTRIBUTING
 
