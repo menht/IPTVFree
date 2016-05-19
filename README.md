@@ -1,6 +1,6 @@
 ![alt tag](http://s32.postimg.org/lcrg2kfph/Progetto_Icona_Copia.png) 
 
-<h2 align="center">Watch all your favorite channel!!</h1>
+<h2 align="center">Watch all your favorite channels!!</h1>
 
 ##DOWNLOAD
 
@@ -51,6 +51,8 @@ Michele Lacorte: [GitHub Profile](https://github.com/michelelacorte) (micky1995g
 Davide Mantellini: [GitHub Profile](https://github.com/DavideMant) (mantellini.davide1995@gmail.com)
  
 Salvatore Vestita: [GitHub Profile](https://github.com/saso93) (salvatore.vestita.1993@gmail.com)
+
+Rubens Pischedda for the video demo: (rubens.pischedda@outlook.it)
 
 #####Third part library:
 
