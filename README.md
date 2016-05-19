@@ -16,6 +16,12 @@
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=D6QRUWYCM5DFE)
 
+##VIDEO
+
+####[See full video here](https://youtu.be/Ssf2w-1ZfbU)
+
+[![IPTV Free](http://i.giphy.com/l41Yh6nk82VgjeFGM.gif)](https://youtu.be/Ssf2w-1ZfbU)
+
 ##SCREENSHOT
 
 ![alt tag](http://s32.postimg.org/cdi0frgo5/screen1.png) 
