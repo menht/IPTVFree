@@ -1,8 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version="1.0" encoding="UTF-8"?>
 <List>
-
-
 #EXTM3U
 #EXTINF:-1,-------- DEFAULT ----------
 http://dummylink.com
@@ -532,7 +529,7 @@ http://worldtv.noip.me:8000/live/Ozkan/Erdem/1051.ts
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/1052.ts
 #EXTINF:-1,ES: AXN
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/1053.ts
-#EXTINF:-1,ES: A&E
+#EXTINF:-1,ES: A e E
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/1054.ts
 #EXTINF:-1,FR: TVbreizh
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/1432.ts
@@ -630,7 +627,7 @@ http://worldtv.noip.me:8000/live/Ozkan/Erdem/494.ts
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/493.ts
 #EXTINF:-1,FR:CINE  FAMIZ HD
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/495.ts
-#EXTINF:-1,FR:Chasse&Peche
+#EXTINF:-1,FR:Chasse e Peche
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/135.ts
 #EXTINF:-1,FR:Canal+ Comedie
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/133.ts
@@ -1116,9 +1113,9 @@ http://worldtv.noip.me:8000/live/Ozkan/Erdem/74.ts
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/75.ts
 #EXTINF:-1,IN: 9X JALWA
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/937.ts
-#EXTINF:-1,IN: &TV HD
+#EXTINF:-1,IN: TV HD
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/43.ts
-#EXTINF:-1,IN: &Picture HD
+#EXTINF:-1,IN: Picture HD
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/55.ts
 #EXTINF:-1,IN TM: SUN MUSIC-IND
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/102.ts
@@ -1170,7 +1167,7 @@ http://worldtv.noip.me:8000/live/Ozkan/Erdem/279.ts
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/1448.ts
 #EXTINF:-1,IT: Premium Sport 2
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/1445.ts
-#EXTINF:-1,IT: Masha e L'Orso
+#EXTINF:-1,IT: Masha e Orso
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/1446.ts
 #EXTINF:-1,IT: DMAX+1
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/1447.ts
@@ -1406,7 +1403,7 @@ http://worldtv.noip.me:8000/live/Ozkan/Erdem/1031.ts
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/1043.ts
 #EXTINF:-1,IT: Dmax
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/1026.ts
-#EXTINF:-1,IT: Discovery Travel & Living HD
+#EXTINF:-1,IT: Discovery Travel Living HD
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/1030.ts
 #EXTINF:-1,IT: Cielo
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/1044.ts
@@ -2066,7 +2063,7 @@ http://worldtv.noip.me:8000/live/Ozkan/Erdem/1330.ts
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/1339.ts
 #EXTINF:-1,UK: MORE 4
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/1338.ts
-#EXTINF:-1,UK: Home & Health
+#EXTINF:-1,UK: Home Health
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/1335.ts
 #EXTINF:-1,UK: H2
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/1337.ts
