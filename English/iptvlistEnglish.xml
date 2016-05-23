@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<List>
+
+
+#EXTM3U
+#EXTINF:-1,-------- DEFAULT ----------
+http://dummylink.com
+#EXTINF:-1,UK: Sky Box Office 2
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1442.ts
+#EXTINF:-1,UK: Real-Lives
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1392.ts
+#EXTINF:-1,UK: EuroSports2
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1368.ts
+#EXTINF:-1,UK: Premier HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1453.ts
+#EXTINF:-1,UK: LFC TV
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1393.ts
+#EXTINF:-1,UK: 3E
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/463.ts
+#EXTINF:-1,UK: VH1 Classic
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1320.ts
+#EXTINF:-1,UK: HEARTV
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1363.ts
+#EXTINF:-1,UK: SONY MOVIES
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1362.ts
+#EXTINF:-1,UK: GOLD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1349.ts
+#EXTINF:-1,UK: VIVA
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1348.ts
+#EXTINF:-1,UK: TV-3
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1347.ts
+#EXTINF:-1,UK: TRAVEL CHANNEL
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1346.ts
+#EXTINF:-1,UK: Tiny Pop
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1345.ts
+#EXTINF:-1,UK: THE VAULT
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1344.ts
+#EXTINF:-1,UK: TG4
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1343.ts
+#EXTINF:-1,UK: TCM
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1342.ts
+#EXTINF:-1,UK: SKY NEWS HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1341.ts
+#EXTINF:-1,UK: PICK TV
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1340.ts
+#EXTINF:-1,UK: MTV Classic
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1330.ts
+#EXTINF:-1,UK: MOVIES 4 MEN
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1339.ts
+#EXTINF:-1,UK: MORE 4
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1338.ts
+#EXTINF:-1,UK: Home & Health
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1335.ts
+#EXTINF:-1,UK: H2
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1337.ts
+#EXTINF:-1,UK: DRAMA UK
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1336.ts
+#EXTINF:-1,UK: CHALLENGE
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1334.ts
+#EXTINF:-1,UK: 5 STAR
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1333.ts
+#EXTINF:-1,UK: 4 SEVEN HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1332.ts
+#EXTINF:-1,UK: MTV Base
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1329.ts
+#EXTINF:-1,UK: True TV
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1328.ts
+#EXTINF:-1,UK: Spike
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1327.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1326.ts
+#EXTINF:-1,UK: Really
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1325.ts
+#EXTINF:-1,UK: Good Food
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1324.ts
+#EXTINF:-1,UK: Flava
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1323.ts
+#EXTINF:-1,UK: Eden
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1322.ts
+#EXTINF:-1,UK: CNN News
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1169.ts
+#EXTINF:-1,UK: YESTERDAY
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/541.ts
+#EXTINF:-1,UK: MTV Rocks
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1280.ts
+#EXTINF:-1,UK: MTV Music
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1281.ts
+#EXTINF:-1,UK: MTV Hits
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1279.ts
+#EXTINF:-1,UK: Watch
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/840.ts
+#EXTINF:-1,UK:VH1
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/652.ts
+#EXTINF:-1,UK: ITV ENCORE HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1297.ts
+#EXTINF:-1,UK: POP
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1298.ts
+#EXTINF:-1,UK: True Movies 2
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/650.ts
+#EXTINF:-1,UK: True Movies 1
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/649.ts
+#EXTINF:-1,UK: True Entertainment
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1294.ts
+#EXTINF:-1,UK: True Drama
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1295.ts
+#EXTINF:-1,UK: TLC
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1035.ts
+#EXTINF:-1,UK: Syfy
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/838.ts
+#EXTINF:-1,UK: Sky Two
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/827.ts
+#EXTINF:-1,UK: Sky Thrill
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/167.ts
+#EXTINF:-1,UK: Sky Sports F1
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/542.ts
+#EXTINF:-1,UK: Sky Sports 5
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/168.ts
+#EXTINF:-1,UK: Sky Sports 4
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/169.ts
+#EXTINF:-1,UK: Sky Sports 3
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/170.ts
+#EXTINF:-1,UK: Sky Sports 2
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/171.ts
+#EXTINF:-1,UK: Sky Sports 1
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/172.ts
+#EXTINF:-1,UK: Sky Sport News
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/826.ts
+#EXTINF:-1,UK: Sky Showcase
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/161.ts
+#EXTINF:-1,UK: Sky Select
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/553.ts
+#EXTINF:-1,UK: SKY ONE
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/626.ts
+#EXTINF:-1,UK: Sky MoviesGreats HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/836.ts
+#EXTINF:-1,UK: Sky Movies Sci-Fi
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/834.ts
+#EXTINF:-1,UK: Sky Movies Premiere  1
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1296.ts
+#EXTINF:-1,UK: Sky Movies Premiere
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/835.ts
+#EXTINF:-1,UK: Sky Movies Drama
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/832.ts
+#EXTINF:-1,UK: SCUZZ
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/914.ts
+#EXTINF:-1,UK: Sky Movies Comedy
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/833.ts
+#EXTINF:-1,UK: Sky Living (UK)
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/830.ts
+#EXTINF:-1,UK: Sky Family
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/162.ts
+#EXTINF:-1,UK: Sky Disney
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/163.ts
+#EXTINF:-1,UK: Sky Arts 1
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/831.ts
+#EXTINF:-1,UK: Sky Action
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/164.ts
+#EXTINF:-1,UK: SetantaSports
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/173.ts
+#EXTINF:-1,UK: Setanta Sport Ireland
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1040.ts
+#EXTINF:-1,UK: Rte two
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/828.ts
+#EXTINF:-1,UK: Rte One
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/829.ts
+#EXTINF:-1,UK: RTE JUNIOR
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/913.ts
+#EXTINF:-1,UK: Racing UK
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/648.ts
+#EXTINF:-1,UK: Quest
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1034.ts
+#EXTINF:-1,UK: Premier Sports
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/462.ts
+#EXTINF:-1,UK: NickToons
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/631.ts
+#EXTINF:-1,UK: Nickelodeon
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/630.ts
+#EXTINF:-1,UK: Nick Jr
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/632.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/641.ts
+#EXTINF:-1,UK: Nat Geo
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/640.ts
+#EXTINF:-1,UK: MUTV FC
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/547.ts
+#EXTINF:-1,UK: ITV BE HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/554.ts
+#EXTINF:-1,UK: ITV 4
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/555.ts
+#EXTINF:-1,UK: ITV 3HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/556.ts
+#EXTINF:-1,UK: ITV 2HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/557.ts
+#EXTINF:-1,UK: ITV 1HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/558.ts
+#EXTINF:-1,UK: Investigation Discovery
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/642.ts
+#EXTINF:-1,UK: Dave
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/910.ts
+#EXTINF:-1,UK: Fox
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1038.ts
+#EXTINF:-1,UK: Food Network
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1024.ts
+#EXTINF:-1,UK: Film 4
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/651.ts
+#EXTINF:-1,UK: Eurosport 1HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1062.ts
+#EXTINF:-1,UK: E!
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/628.ts
+#EXTINF:-1,UK: Disney JR
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/634.ts
+#EXTINF:-1,UK: Disney Channel
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/633.ts
+#EXTINF:-1,UK: Discovery Shed
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1321.ts
+#EXTINF:-1,UK: DISCOVERY TURBO
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/911.ts
+#EXTINF:-1,UK: Discovery Science
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/637.ts
+#EXTINF:-1,UK: Discovery History
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/638.ts
+#EXTINF:-1,UK: Discovery
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/636.ts
+#EXTINF:-1,UK: Horror Channel
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1039.ts
+#EXTINF:-1,UK: Comedy Central
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1033.ts
+#EXTINF:-1,UK: CNN
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/644.ts
+#EXTINF:-1,UK: CNBC
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/645.ts
+#EXTINF:-1,UK: Chelsea
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/435.ts
+#EXTINF:-1,UK: CHANNEL 5 HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/545.ts
+#EXTINF:-1,UK: Channel 4
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1037.ts
+#EXTINF:-1,UK: CBS REALITY
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/546.ts
+#EXTINF:-1,UK: CBS DRAMA
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/549.ts
+#EXTINF:-1,UK: CBS Action
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/548.ts
+#EXTINF:-1,UK: Cartoon Network
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/629.ts
+#EXTINF:-1,UK: BT SPORTS EXTRA
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/734.ts
+#EXTINF:-1,UK: BT Sports ESPN
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/434.ts
+#EXTINF:-1,UK: BT Sports 2
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/432.ts
+#EXTINF:-1,UK: BT Sports 1 HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/174.ts
+#EXTINF:-1,UK: BT Europe HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/433.ts
+#EXTINF:-1,UK: Box Nation
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/646.ts
+#EXTINF:-1,UK: BOOMERANG
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/912.ts
+#EXTINF:-1,UK: Bloomberg
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/635.ts
+#EXTINF:-1,UK: BBC4
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/550.ts
+#EXTINF:-1,UK: BBC3
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/551.ts
+#EXTINF:-1,UK: BBC2
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/552.ts
+#EXTINF:-1,UK: BBC 1
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/175.ts
+#EXTINF:-1,UK: Baby TV
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1036.ts
+#EXTINF:-1,UK: At the Races
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/647.ts
+#EXTINF:-1,UK: ANIMAL PLANET
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/639.ts
+#EXTINF:-1,UK: Aliens
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/839.ts
+#EXTINF:-1,UK: ALIBI
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/627.ts
+#EXTINF:-1,UK: 5STAR
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/543.ts
+#EXTINF:-1,UK: 5 USA
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1061.ts
+#EXTINF:-1,UK: 4E
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/544.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1269.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1270.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/1271.ts
+</List>
