@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Content>
+<List>
 #EXTM3U
 #EXTINF:-1,--DEFAULT
 http://dummylink.com
@@ -1009,4 +1009,4 @@ http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/59.ts
 http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/219.ts
 #EXTINF:-1,Rai Gulp
 http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/226.ts
-</Content>
+</List>
