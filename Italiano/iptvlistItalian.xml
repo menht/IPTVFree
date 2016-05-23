@@ -353,7 +353,7 @@ http://live.youiptv.ch:1935/La6/LA6.stream/playlist.m3u8
 http://espansione.meway.tv:80/live/espansione/hasbahca.m3u8
 #EXTINF:-1 ,TeleMantova
 rtmp://wma07.fluidstream.net:1935/TeleMantova/livestream
-#EXTINF:-1 ,TeleMilano Piu' Blu
+#EXTINF:-1 ,TeleMilano Piu Blu
 rtmp://ondemand.superstreaming.it:1935/piublu/piublu.sdp
 #EXTINF:-1 ,Teleblu
 rtmp://webtv.teleblu.tv:1935/live/teleblu
@@ -367,7 +367,7 @@ http://xcanaleottoleccex.api.channel.livestream.com/3.0/playlist.m3u8
 rtmp://fl1.mediastreaming.it:1935/telebari/livestream
 #EXTINF:-1 ,Telerama
 http://iphone-streaming.ustream.tv/ustreamVideo/20845752/streams/live/playlist.m3u8
-#EXTINF:-1 ,Antichita' Chiossone
+#EXTINF:-1 ,Antichita Chiossone
 rtmp://tzvr73.live.cloud.influxis.com:1935/tzvr73/_definst_/acLive
 #EXTINF:-1 ,Studio 100
 rtmp://wms.shared.streamshow.it:1935/studio100ta/studio100ta
@@ -1009,4 +1009,432 @@ http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/59.ts
 http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/219.ts
 #EXTINF:-1,Rai Gulp
 http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/226.ts
+#EXTINF:-1,-----AL CINEMA-----
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1923.ts
+#EXTINF:-1,Ave Cesare! (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2980.mkv
+#EXTINF:-1,Lo chiamavano Jeeg Robot (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2982.mkv
+#EXTINF:-1,La Coppia Dei Campioni (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2979.mkv
+#EXTINF:-1,Batman V Superman: Dawn of Justice (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2865.mkv
+#EXTINF:-1,Vita cuore battito (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2856.mkv
+#EXTINF:-1,Tiramisù (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2551.mkv
+#EXTINF:-1,Zootropolis (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2399.mkv
+#EXTINF:-1,50 sbavature di nero (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2174.mkv
+#EXTINF:-1,Deadpool (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1964.mkv
+#EXTINF:-1,PPZ Pride + Prejudice + Zombies (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1938.mkv
+#EXTINF:-1,Daddys Home (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1776.mkv
+#EXTINF:-1,L`abbiamo fatta grossa (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1804.mkv
+#EXTINF:-1,Quo vado? (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1891.mkv
+#EXTINF:-1,Se mi lasci non vale (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1749.mp4
+#EXTINF:-1,Ma Che Bella Sorpresa (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1807.mkv
+#EXTINF:-1,Ci devo pensare (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1809.mkv
+#EXTINF:-1,-----ULTIMI FILM INSERITI-----
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1924.ts
+#EXTINF:-1,The Boy [HD] (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/3141.mkv
+#EXTINF:-1,Gods of Egypt [HD] (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/3095.mkv
+#EXTINF:-1,Hell and Back [HD] (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2986.mp4
+#EXTINF:-1,The Dressmaker – Il diavolo è tornato (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2983.mkv
+#EXTINF:-1,Extraction (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2922.mkv
+#EXTINF:-1,Fuga dal pianeta Terra (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2981.mkv
+#EXTINF:-1,Peppa Pig – Il Parco di Divertimenti e altre storie (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2978.mkv
+#EXTINF:-1,Basta Poco (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2921.mkv
+#EXTINF:-1,Oliver Stoned (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2860.mkv
+#EXTINF:-1,The Veil (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2859.mkv
+#EXTINF:-1,Il professor Cenerentolo [HD] (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2861.mkv
+#EXTINF:-1,Star Wars – Episodio VII – Il risveglio della Forza (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2858.mkv
+#EXTINF:-1,Masha e Orso Rockstar (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2857.mkv
+#EXTINF:-1,Kung Fu Panda 3 (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2854.mkv
+#EXTINF:-1,Boog e Elliot 4: Il Mistero Della Foresta [HD] (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2852.mkv
+#EXTINF:-1,Room (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2596.mkv
+#EXTINF:-1,Victor: La storia segreta del dottor Frankenstein (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2597.mkv
+#EXTINF:-1,Hot Bot (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2595.mkv
+#EXTINF:-1,Standoff – Punto Morto (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2552.mkv
+#EXTINF:-1,Il Piccolo Principe (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2424.mkv
+#EXTINF:-1,-----ANIMAZIONE----
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1877.ts
+#EXTINF:-1,Inside out (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2422.mkv
+#EXTINF:-1,Albert e il diamante magico (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2423.mkv
+#EXTINF:-1,Strange Magic (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2421.mkv
+#EXTINF:-1,Snoopy and Friends – Il film dei Peanuts (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2175.mkv
+#EXTINF:-1,HOTEL TRANSYLVANIA 2 (2015) it
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2401.mkv
+#EXTINF:-1,Mune – Il guardiano della luna (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2400.mkv
+#EXTINF:-1,Rio 2096 - Una Storia Di Amore E Furia (2014)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1866.mkv
+#EXTINF:-1,Era glaciale 2 - Il disgelo (2006)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1864.mkv
+#EXTINF:-1,Ribelle - The Brave (2012)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1869.mkv
+#EXTINF:-1,Rapunzel - Intreccio della Torre (2010)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1870.mkv
+#EXTINF:-1,Planes (2013)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1871.mkv
+#EXTINF:-1,Mulan (1998)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1868.mkv
+#EXTINF:-1,-----AVVENTURA-----
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1926.ts
+#EXTINF:-1,Fury (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2426.mkv
+#EXTINF:-1,Piccoli Brividi (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1806.mkv
+#EXTINF:-1,-----AZIONE-----
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1925.ts
+#EXTINF:-1,Fantastic 4 – I fantastici quattro (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2431.mkv
+#EXTINF:-1,Hitman: Agent 47 (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2548.mkv
+#EXTINF:-1,Big Game – Caccia al presidente (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2427.mkv
+#EXTINF:-1,007: Spectre (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1963.mkv
+#EXTINF:-1,Criminal Activities (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1962.mkv
+#EXTINF:-1,Die Hard – Un buon giorno per morire (2013)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2550.mkv
+#EXTINF:-1,-----COMMEDIA-----
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1927.ts
+#EXTINF:-1,Natale col boss (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2553.mkv
+#EXTINF:-1,Matrimonio al Sud (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2853.mkv
+#EXTINF:-1,Non c’è 2 senza te (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2425.mkv
+#EXTINF:-1,Fuga in tacchi a spillo (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2428.mkv
+#EXTINF:-1,Torno indietro e cambio vita (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2429.mkv
+#EXTINF:-1,The Wedding Ringer – Un Testimone In Affitto (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2430.mkv
+#EXTINF:-1,Come Ti Rovino Le Vacanze (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1881.mkv
+#EXTINF:-1,Ted 2 [HD] (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1920.mkv
+#EXTINF:-1,Italo (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1919.mkv
+#EXTINF:-1,Belli di PapÃ  (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1902.mkv
+#EXTINF:-1,Appuntamento con l`amore (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1859.mkv
+#EXTINF:-1,Una donna per amica (2014)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1858.mkv
+#EXTINF:-1,Tutto può accadere a broadway (2014)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2545.mkv
+#EXTINF:-1,La buca (2014)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1921.mkv
+#EXTINF:-1,Sapore di te (2014)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1808.mkv
+#EXTINF:-1,Nati Stanchi (2002)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1860.mp4
+#EXTINF:-1,THE MILLIONAIRE (2008)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1857.mkv
+#EXTINF:-1,-----DRAMMATICO-----
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1928.ts
+#EXTINF:-1,UNA VOLTA NELLA VITA (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1841.mkv
+#EXTINF:-1,99 Homes (2014)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2547.mkv
+#EXTINF:-1,-----FANTASY-----
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1929.ts
+#EXTINF:-1,Selfless (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1861.mkv
+#EXTINF:-1,Avengers: Age of Ultron (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2544.mkv
+#EXTINF:-1,The Avengers (2012)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2543.mkv
+#EXTINF:-1,Transformers (2007)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2432.mkv
+#EXTINF:-1,Fantaghiro (1991)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1930.mkv
+#EXTINF:-1,Fantaghiro 2 (1992)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1933.mkv
+#EXTINF:-1,Fantaghiro 3 (1993)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1934.mkv
+#EXTINF:-1,Fantaghiro 4 (1994)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1935.mkv
+#EXTINF:-1,Fantaghiro 5 (1996)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1936.mkv
+#EXTINF:-1,-----HORROR-----
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1932.ts
+#EXTINF:-1,3 Headed Shark Attack (2015)?
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/3136.mkv
+#EXTINF:-1,The Vatican Tapes (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2178.mkv
+#EXTINF:-1,Knock Knock (2015) it
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2177.mkv
+#EXTINF:-1,No One Lives (2012)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2176.mkv
+#EXTINF:-1,Francesca (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1965.mkv
+#EXTINF:-1,Tales of Halloween [HD] (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1939.mkv
+#EXTINF:-1,Paranormal Activity: The Ghost Dimension
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1879.mkv
+#EXTINF:-1,Crimson Peak (2015) ITA
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1843.mkv
+#EXTINF:-1,-----THRILLER-----
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1931.ts
+#EXTINF:-1,Remember (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2179.mkv
+#EXTINF:-1,-----FILM TRE D----
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1884.ts
+#EXTINF:-1,Il Viaggio Di Arlo [3D] (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1882.mkv
+#EXTINF:-1,A Spasso con i dinosauri [3D] (2014)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1886.mkv
+#EXTINF:-1,L.A. Apocalypse - Apocalisse a Los Angeles [3D]
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1885.mkv
+#EXTINF:-1,Terminator: Genisys [HD/3D] (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1918.mkv
+#EXTINF:-1,Kristy [HD/3D] (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1917.mkv
+#EXTINF:-1,Ant-Man [HD/3D] (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1916.mkv
+#EXTINF:-1,-----Anni 70-80-90-----
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/2598.ts
+#EXTINF:-1,La discotheka (1983)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2612.mkv
+#EXTINF:-1,La ammiratrice (1985)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2607.mkv
+#EXTINF:-1,Giuro che ti amo (1986)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2611.mkv
+#EXTINF:-1,Ultimo guappo (1978)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2608.mkv
+#EXTINF:-1,Il Mammasantissima (1979)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2605.mkv
+#EXTINF:-1,Napoli... la camorra sfida e la città risponde (1979)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2610.mkv
+#EXTINF:-1,Zappatore (1980)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2617.mkv
+#EXTINF:-1,Napoli Palermo New York - Il triangolo della Camorra (1981)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2609.mkv
+#EXTINF:-1,Fratelli d`italia (1989)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2603.mkv
+#EXTINF:-1,Stesso mare stessa spiaggia (1983)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2613.mkv
+#EXTINF:-1,Vacanze di estate (1985)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2615.mkv
+#EXTINF:-1,Pierino contro tutti (1981)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2565.mkv
+#EXTINF:-1,Pierino colpisce ancora (1982)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2599.mkv
+#EXTINF:-1,Pierino torna a scuola (1990)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2566.mkv
+#EXTINF:-1,Vieni avanti cretino (1982)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1968.mkv
+#EXTINF:-1,Squadra Antiscippo (1976)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2559.mkv
+#EXTINF:-1,Squadra Antifurto (1976)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2560.mkv
+#EXTINF:-1,Squadra Antigangsters (1979)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2564.mkv
+#EXTINF:-1,Il Ritorno Del Monnezza (2005)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2616.mkv
+#EXTINF:-1,È forte un casino (1982)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2618.mkv
+#EXTINF:-1,-----Serie cinematografiche-----
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1893.ts
+#EXTINF:-1,Rambo (1982)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1888.mkv
+#EXTINF:-1,Rambo 2: La vendetta (1985)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1889.mkv
+#EXTINF:-1,Rambo 3 (1988)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1890.mkv
+#EXTINF:-1,John Rambo (2008)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1894.mkv
+#EXTINF:-1,Rocky (1976)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1895.mkv
+#EXTINF:-1,Rocky II (1979)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1896.mkv
+#EXTINF:-1,Rocky III (1982)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1897.mkv
+#EXTINF:-1,Rocky IV (1985)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2562.mkv
+#EXTINF:-1,Rocky V (1990)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2563.mkv
+#EXTINF:-1,Creed: Nato per combattere (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1940.mkv
+#EXTINF:-1,-----FANTOZZI----
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1876.ts
+#EXTINF:-1,Fantozzi (1975)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1874.mkv
+#EXTINF:-1,Il secondo tragico Fantozzi (1976)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1875.mkv
+#EXTINF:-1,Fantozzi subisce ancora (1983)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1908.mkv
+#EXTINF:-1,Superfantozzi (1986)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1909.mkv
+#EXTINF:-1,Fantozzi va in pensione (1988)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1910.mkv
+#EXTINF:-1,Fantozzi in Paradiso (1993)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1912.mkv
+#EXTINF:-1,Fantozzi il ritorno (1996)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1913.mkv
+#EXTINF:-1,Fantozzi contro tutti (1980)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1907.mkv
+#EXTINF:-1,Fantozzi alla riscossa (1990)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1911.mkv
+#EXTINF:-1,Fantozzi 2000 - La Clonazione (1999)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1914.mkv
+#EXTINF:-1,-----Franco e Ciccio----
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1883.ts
+#EXTINF:-1,Franco e Ciccio - I tre nemici (1962)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1880.mkv
+#EXTINF:-1,Franco e Ciccio - Don Chisciotte E Sancio Panza (1968)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2601.mkv
+#EXTINF:-1,Franco e Ciccio - Indovina chi viene a merenda (1969)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2606.mkv
+#EXTINF:-1,Franco e Ciccio - ladro e guardia (1970)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1878.mkv
+#EXTINF:-1,Franco e Ciccio - I Due Assi Del Guantone (1971)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2602.mkv
+#EXTINF:-1,-----Totò-----
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1905.ts
+#EXTINF:-1,Toto a colori (1952)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1899.mkv
+#EXTINF:-1,Il medico dei pazzi Toto (1954) 1a parte
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1892.mkv
+#EXTINF:-1,Il medico dei pazzi Toto (1954) 2a parte
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1898.mkv
+#EXTINF:-1,Toto Peppino e la malafemmina (1956)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1915.mkv
+#EXTINF:-1,-----Bud Spencer e Terence Hill-----
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1906.ts
+#EXTINF:-1,Dio perdona... io no! (1968)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1887.mkv
+#EXTINF:-1,La collina degli stivali (1970)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1901.mkv
+#EXTINF:-1,piu forte ragazzi (1972)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2600.mkv
+#EXTINF:-1,Il mio nome e nessuno (1974)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2604.mkv
+#EXTINF:-1,Chissà perché… capitano tutte a me (1980)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2567.mkv
+#EXTINF:-1,SUPERFANTAGENIO (1986)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2614.mkv
+#EXTINF:-1,***** Gomorra Serie TV *****
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/2420.ts
+#EXTINF:-1,1×01 Il clan dei Savastano
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2408.mkv
+#EXTINF:-1,1×02 Ti fidi di me?
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2409.mkv
+#EXTINF:-1,1×03 L’omm ‘e casa
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2410.mkv
+#EXTINF:-1,1×04 Sangue africano
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2411.mkv
+#EXTINF:-1,1×05 Il ruggito della leonessa
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2412.mkv
+#EXTINF:-1,1×06 Roulette spagnola
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2413.mkv
+#EXTINF:-1,1×07 Imma contro tutti
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2414.mkv
+#EXTINF:-1,1×08 La scheda bianca
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2415.mkv
+#EXTINF:-1,1×09 Gelsomina Verde
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2416.mkv
+#EXTINF:-1,1×10 Ora facciamo i Conte
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2417.mkv
+#EXTINF:-1,1×11 100 modi per uccidere
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2418.mkv
+#EXTINF:-1,1×12 Gli Immortali
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2419.mkv
+#EXTINF:-1,2×01 Episodio 1 – HD
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/3049.mkv
+#EXTINF:-1,2×02 Episodio 2 – HD
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/3050.mkv
+#EXTINF:-1,2×03 Episodio 3
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/3093.mkv
+#EXTINF:-1,2×04 Episodio 4
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/3094.mkv
+#EXTINF:-1,***** Video ON DEMAND DE *****
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1599.ts
+#EXTINF:-1,The First Avenger: Civil War (2016
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2985.mkv
+#EXTINF:-1,The Boss (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2987.mkv
+#EXTINF:-1,Pee-wee Big Holiday (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2989.mkv
+#EXTINF:-1,Zoomania (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2393.mkv
+#EXTINF:-1,Dirty Grandpa (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2394.mkv
+#EXTINF:-1,Die Highligen drei Könige (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2395.mkv
+#EXTINF:-1,Deadpool (2016) DE
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2396.mkv
+#EXTINF:-1,Point Break (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2397.mkv
+#EXTINF:-1,Sisters (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2988.mkv
+#EXTINF:-1,Ride Along 2: Next Level Miami (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1826.mkv
+#EXTINF:-1,Alvin und die Chipmunks: Road Chip (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1824.mkv
+#EXTINF:-1,The Hateful Eight (2015) DE
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1825.mkv
+#EXTINF:-1,GÃ¤nsehaut (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1827.mkv
+#EXTINF:-1,Die 5. Welle (2016)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1828.mkv
+#EXTINF:-1,Creed - Rocky Legacy (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1591.mp4
+#EXTINF:-1,Die Vorsehung (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1829.mkv
+#EXTINF:-1,The Revenant - Der RÃ¼ckkehrer (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1830.mkv
+#EXTINF:-1,Joy: Alles außer gewöhnlich (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1831.mkv
+#EXTINF:-1,The Big Short (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1832.mkv
+#EXTINF:-1,Die Peanuts - Der Film (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1833.mkv
+#EXTINF:-1,Dark Places: GefÃ¤hrliche Erinnerung (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1834.mkv
+#EXTINF:-1,Ashby (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1836.mkv
+#EXTINF:-1,Bridge of Spies: Der UnterhÃ¤ndler (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1839.mkv
+#EXTINF:-1,Arlo Spot (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1840.mkv
+#EXTINF:-1,Krampus (2015)
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2392.mkv
 </List>
