@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Menù drawer -->
+    <string name="app_name">IPTV Free</string>
+    <string name="about">Info</string>
+    <string name="donate">Dona</string>
+    <string name="share">Condividi</string>
+    <string name="communicate">Comunica</string>
+    <string name="favorite">Preferiti</string>
+    <string name="italian">Italiano</string>
+    <string name="english">English</string>
+    <string name="mixed">Mixed</string>
+    <string name="mylist">My List</string>
+    <string name="bug_report">Segnalazioni</string>
+    <!-- Various String -->
+    <string name="getting_data">Prelevo i dati...</string>
+    <string name="please_wait">Aspetta ...</string>
+    <string name="connection">Controlla la tua connessione ad internet!</string>
+    <string name="player">Per favore installa un lettore multimediale per avviare IPTV Free. \n\n Ti consigliamo <a href="http://www.google.it">MX Player</a></string>
+    <string name="snackbar_open">Apri</string>
+    <string name="share_message">"Hello!\nSee IPTVFree at https://github.com/michelelacorte/IPTVFree"</string>
+    <!-- Dialog Info-->
+    <string name="ok_dialog">OK</string>
+    <string name="dialog_message">This App is totally free and is available on <a href="https://github.com/michelelacorte/IPTVFree">GitHub</a>.\nThe App is licensed under <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache</a> license.\n\nApplication Version 1.0</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="donate_message">If you like IPTV Free, please help developer!\n\n<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D6QRUWYCM5DFE">Donate</a></string>
+    <!-- Email String -->
+    <string name="email">bdscompany1990@gmail.com</string>
+    <string name="email_subject">IPTV Link non funzionante</string>
+    <string name="email_text">Per favore sostituite il link: </string>
+    <string name="email_send">Invia Segnalazione.</string>
+    <string name="email_failed">Errore! Non hai client per inviare la segnalazione</string>
+    <string name="email_text_bug">Descrivici il problema: </string>
+    <string name="email_subject_bug">Ho riscontrato un problema!</string>
+    <!-- Donwload M3U List -->
+    <string name="download_message">Sto scaricando la lista in formato .m3u</string>
+    <string name="download_success">Playlist scaricata con successo!</string>
+    <string name="download_error">Download fallito!</string>
+    <!-- Toolbar Menù -->
+    <string name="action_signal">Segnala Link</string>
+    <string name="action_favorite">Aggiungi ai preferiti</string>
+    <string name="action_delete">Elimina</string>
+    <!-- File Selector -->
+    <string name="enterFileName">Nome File:</string>
+    <string name="saveButtonText">Salva</string>
+    <string name="cancelButtonText">Cancella</string>
+    <string name="cannotSaveFileMessage">Impossibile salvare il file</string>
+    <string name="fileNameFirstMessage">Per favore metti un nome prima</string>
+    <string name="okButtonText">OK</string>
+    <string name="loadButtonText">Apri</string>
+    <string name="accessDenied">Accesso non consentito!</string>
+    <string name="missingFile">File inesistente!</string>
+    <string name="newFolderButtonText">Nuova cartella</string>
+    <string name="newFolderDialogMessage">Crea nuova cartella</string>
+    <string name="createButtonText">Crea</string>
+    <string name="folderCreationOk">Cartella creata con successo</string>
+    <string name="folderCreationError">Errore nella creazione della cartella!</string>
+    <string name="information">Informazioni</string>
+    <!-- Loader Dialog -->
+    <string name="dialog_loader_open">Apri</string>
+    <string name="dialog_loader_cancel">Cancella</string>
+    <string name="dialog_loader_load">Caricato</string>
+    <string name="dialog_loader_choose">Scegli</string>
+    <string name="dialog_loader_choose_from_file">Da File</string>
+    <string name="dialog_loader_choose_from_url">Da URL</string>
+    <string name="dialog_loader_url">Scrivi URL</string>
+    <string name="dialog_loader_list_title">Errore!</string>
+    <string name="dialog_loader_list_message">Non hai caricato nessuna lista!</string>
+    <string name="dialog_loader_list_favorite">Errore!</string>
+    <string name="dialog_loader_list_favorite_message">Non hai aggiunto nessun preferito!</string>
+    <!-- Intro View -->
+    <string name="intro_understand">Ho capito!</string>
+    <string name="intro_navbar">Usa il menù laterale per scorrere nelle varie categorie dell\'IPTV!</string>
+    <string name="intro_fab">Usa questo bottone per aggiungere o scaricare playlist!</string>
+    <string name="intro_tab">Queste sono le varie categorie di video che potrai vedere ogni giorno!\nQui troverai tutti i canali disponibili per la categoria, ti basterà cliccare sopra per avviarlo!</string>
+    <string name="intro_search">Puoi cercare il tuo canale cliccando l\'icona della lente di ingrandimento e scrivendo il nome!</string>
+    <!-- Disclaimer Dialog -->
+    <string name="disclaimer_dialog_yes">SI</string>
+    <string name="disclaimer_dialog_no">NO</string>
+    <string name="disclaimer_dialog_message">Benvenuto in IPTVFree!\nQuesta app è totalmente gratuita, non ci sono pubblicità, si prega di aiutare gli sviluppatori votando positivamente!\nGli sviluppatori non si assumono nessuna responsabilità dell\'utilizzo che ne farete.</string>
+    <string name="disclaimer_link">Fonte dello streaming:</string>
+    <!-- Fab menu text -->
+    <string name="fab_download">Download PlayList</string>
+    <string name="fab_add">Aggiungi PlayList</string>
+</resources>

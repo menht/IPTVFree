@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Menù drawer -->
+    <string name="app_name" translatable="false">IPTV Free</string>
+    <string name="about" translatable="false">Info</string>
+    <string name="donate" translatable="false">Donate</string>
+    <string name="share">Share</string>
+    <string name="communicate" translatable="false">Communicate</string>
+    <string name="favorite">Favorite</string>
+    <string name="italian">Italian</string>
+    <string name="english">English</string>
+    <string name="mixed">Mixed</string>
+    <string name="mylist">My List</string>
+    <string name="bug_report" translatable="false">Reports</string>
+    <!-- Various String -->
+    <string name="getting_data">Fetching data...</string>
+    <string name="please_wait">Wait ...</string>
+    <string name="connection" translatable="false">Check your internet connection!</string>
+    <string name="player">Please install a media player to start IPTV Free. \n\n We suggest you <a href="http://www.google.it">MX Player</a></string>
+    <string name="snackbar_open">Open</string>
+    <string name="share_message">"Hello!\nSee IPTVFree at https://github.com/michelelacorte/IPTVFree"</string>
+    <!-- Dialog Info-->
+    <string name="ok_dialog">OK</string>
+    <string name="dialog_message" translatable="false">This App is totally free and is available on <a href="https://github.com/michelelacorte/IPTVFree">GitHub</a>.\nThe App is licensed under <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache</a> license.\n\nApplication Version 1.0</string>
+    <string name="drawer_open" translatable="false">Open</string>
+    <string name="drawer_close" translatable="false">Close</string>
+    <string name="donate_message" translatable="false">If you like IPTV Free, please help developer!\n\n<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=LY7EX8WMWPWV6">Donate</a></string>
+    <!-- Email String -->
+    <string name="email">bdscompany1990@gmail.com</string>
+    <string name="email_subject">IPTV Link not working</string>
+    <string name="email_text">Please replace the link: </string>
+    <string name="email_send">Report Issue.</string>
+    <string name="email_failed">Error! You do not have a client to submit the report</string>
+    <string name="email_text_bug">Describe the problem: </string>
+    <string name="email_subject_bug">I experienced an issue!</string>
+    <!-- Donwload M3U List -->
+    <string name="download_message" translatable="false">I am downloading the list format .m3u</string>
+    <string name="download_success" translatable="false">Playlist successfully downloaded!</string>
+    <string name="download_error" translatable="false">Download failed!</string>
+    <!-- Toolbar Menù -->
+    <string name="action_signal" translatable="false">Report Link</string>
+    <string name="action_favorite" translatable="false">Add to favorites</string>
+    <string name="action_delete" translatable="false">Cancel</string>
+    <!-- File Selector -->
+    <string name="enterFileName">File Name:</string>
+    <string name="saveButtonText">Save</string>
+    <string name="cancelButtonText" translatable="false">Cancel</string>
+    <string name="cannotSaveFileMessage" translatable="false">Unable to save file!</string>
+    <string name="fileNameFirstMessage">Please put a name before</string>
+    <string name="okButtonText">OK</string>
+    <string name="loadButtonText">Open</string>
+    <string name="accessDenied" translatable="false">Restrict access!</string>
+    <string name="missingFile">File does not exist!</string>
+    <string name="newFolderButtonText">New folder</string>
+    <string name="newFolderDialogMessage">Create new folder</string>
+    <string name="createButtonText" translatable="false">Create</string>
+    <string name="folderCreationOk">Folder created successfully</string>
+    <string name="folderCreationError">Error creating folder!</string>
+    <string name="information">Info</string>
+    <!-- Loader Dialog -->
+    <string name="dialog_loader_open" translatable="false">Open</string>
+    <string name="dialog_loader_cancel" translatable="false">Cancel</string>
+    <string name="dialog_loader_load" translatable="false">Load</string>
+    <string name="dialog_loader_choose" translatable="false">Select</string>
+    <string name="dialog_loader_choose_from_file" translatable="false">From File</string>
+    <string name="dialog_loader_choose_from_url" translatable="false">From URL</string>
+    <string name="dialog_loader_url" translatable="false">Write URL</string>
+    <string name="dialog_loader_list_title" translatable="false">Error!</string>
+    <string name="dialog_loader_list_message" translatable="false">You have not uploaded any list!</string>
+    <string name="dialog_loader_list_favorite" translatable="false">Error!</string>
+    <string name="dialog_loader_list_favorite_message" translatable="false">You have not added any favorite!</string>
+    <!-- Intro View -->
+    <string name="intro_understand">Got it!</string>
+    <string name="intro_navbar">Use the side menu to scroll through the various IPTV categories!</string>
+    <string name="intro_fab">Click this button to add or download playlist!</string>
+    <string name="intro_tab">These are the different categories of videos that you can see every day! \nHere find all available channels for the category, simply click on it to start it!</string>
+    <string name="intro_search">You can search for your channel by clicking the search icon, and the writing the name!</string>
+    <!-- Disclaimer Dialog -->
+    <string name="disclaimer_dialog_yes">YES</string>
+    <string name="disclaimer_dialog_no">NO</string>
+    <string name="disclaimer_dialog_message">Welcome to IPTVFree ! \nThis app is totally free, no ad, please help by voting positively developers! \nDevelopers do not assume any responsibility for the use that you will make.</string>
+    <string name="disclaimer_link">Streaming source:</string>
+    <!-- Fab menu text -->
+    <string name="fab_download">Download PlayList</string>
+    <string name="fab_add">Add PlayList</string>
+</resources>
