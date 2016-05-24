@@ -38,6 +38,10 @@ Android API 14+
 
 ![project maintained](https://img.shields.io/badge/Project-Maintained-green.svg)
 
+##PROJECT CERTIFICATION
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c068046882c74214bae960a958798c87)](https://www.codacy.com/app/micky1995/IPTVFree?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=michelelacorte/IPTVFree&amp;utm_campaign=Badge_Grade)
+
 ##CHANGELOG
 
 **v1.0.0**
@@ -49,10 +53,6 @@ Android API 14+
 - `SearchView` on Toolbar
 - Possibility to add channel to `Favorite` category
 - System language supported `Italian` and `English`
-
-##PROJECT CERTIFICATION
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c068046882c74214bae960a958798c87)](https://www.codacy.com/app/micky1995/IPTVFree?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=michelelacorte/IPTVFree&amp;utm_campaign=Badge_Grade)
 
 ##CREDITS
 
