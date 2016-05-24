@@ -4,11 +4,9 @@
 
 ##DOWNLOAD
 
-[![API](https://img.shields.io/badge/API-14%2B-yellow.svg?style=flat)](https://android-arsenal.com/api?level=14)
-
 ####IPTV Free is on Google Play!!!
 
-<a href="null">
+<a href="https://play.google.com/store/apps/details?id=it.michelelacorte.iptvfree">
 <img alt="Get it on Google Play" src="http://s13.postimg.org/543fm7tuf/google_play.png" />
 </a>
 
@@ -34,13 +32,25 @@
 
 Android API 14+
 
+[![API](https://img.shields.io/badge/API-14%2B-yellow.svg?style=flat)](https://android-arsenal.com/api?level=14)
+
 ##STATUS
 
 ![project maintained](https://img.shields.io/badge/Project-Maintained-green.svg)
 
+##PROJECT CERTIFICATION
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c068046882c74214bae960a958798c87)](https://www.codacy.com/app/micky1995/IPTVFree?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=michelelacorte/IPTVFree&amp;utm_campaign=Badge_Grade)
+
 ##CHANGELOG
 
-**v1.0.0 (Coming Soon!!)**
+**v1.0.1 (Coming Soon!)**
+
+- All player supported
+- Fixed tutorial issue with low density screen
+
+
+**v1.0.0**
 
 - Possibility to load custom playlist `(.m3u, .m3u8)` from SD and URL in `My List` category
 - `Italian`, `English` and `Mixed` (various nationality) category of channel update day to day!
