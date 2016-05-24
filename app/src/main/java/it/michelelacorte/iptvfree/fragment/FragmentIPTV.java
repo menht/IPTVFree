@@ -1,10 +1,12 @@
 package it.michelelacorte.iptvfree.fragment;
 
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.widget.CardView;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
@@ -14,7 +16,6 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
-import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -37,9 +38,9 @@ import it.michelelacorte.iptvfree.util.Utils;
  * Created by Michele on 20/04/2016.
  */
 public class FragmentIPTV extends Fragment {
-    RecyclerView rv;
-    LinearLayoutManager llm;
-    CardViewAdapter adapter;
+    private RecyclerView rv;
+    private LinearLayoutManager llm;
+    private CardViewAdapter adapter;
     private FastScroller fastScroller;
     private List<String> channelLink = new ArrayList<>();
     private List<String> channelName = new ArrayList<>();
@@ -117,18 +118,34 @@ class CardViewAdapter extends RecyclerView.Adapter<CardViewAdapter.ViewHolder> i
         viewHolder.cv.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(m3UData.get(i).getChannelLink()));
-                intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                context.startActivity(intent);
-                try {
-                    URL domainUrl = new URL(m3UData.get(i).getChannelLink());
-                    Toast.makeText(context, context.getResources().getString(R.string.disclaimer_link)
-                            + " " + domainUrl.getHost(), Toast.LENGTH_SHORT).show();
-                } catch (MalformedURLException e) {
-                    e.printStackTrace();
-                    Toast.makeText(context, context.getResources().getString(R.string.disclaimer_link)
-                            + " " + m3UData.get(i).getChannelLink(), Toast.LENGTH_SHORT).show();
-                }
+                AlertDialog.Builder builder =
+                        new AlertDialog.Builder(context, R.style.AlertDialogCustom);
+                builder.setTitle(context.getString(R.string.app_name));
+                builder.setCancelable(false);
+                builder.setMessage(context.getString(R.string.disclaimer_channel));
+                builder.setPositiveButton(context.getString(R.string.disclaimer_dialog_yes), new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int id) {
+                        //Accepted Disclaimer
+                        Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(m3UData.get(i).getChannelLink()));
+                        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                        context.startActivity(intent);
+                        try {
+                            URL domainUrl = new URL(m3UData.get(i).getChannelLink());
+                            Toast.makeText(context, context.getResources().getString(R.string.disclaimer_link)
+                                    + " " + domainUrl.getHost(), Toast.LENGTH_SHORT).show();
+                        } catch (MalformedURLException e) {
+                            e.printStackTrace();
+                            Toast.makeText(context, context.getResources().getString(R.string.disclaimer_link)
+                                    + " " + m3UData.get(i).getChannelLink(), Toast.LENGTH_SHORT).show();
+                        }
+                    }
+                });
+                builder.setNegativeButton(context.getString(R.string.disclaimer_dialog_no), new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int id) {
+                        //Discard Disclaimer
+                    }
+                });
+                builder.show();
             }
         });
         Picasso.with(context)

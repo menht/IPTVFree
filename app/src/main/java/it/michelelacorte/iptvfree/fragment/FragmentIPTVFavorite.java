@@ -33,8 +33,8 @@ import it.michelelacorte.iptvfree.util.Utils;
  * Created by Michele on 23/04/2016.
  */
 public class FragmentIPTVFavorite  extends Fragment {
-    RecyclerView rv;
-    LinearLayoutManager llm;
+    private RecyclerView rv;
+    private LinearLayoutManager llm;
     private FastScroller fastScroller;
     public static CardViewAdapterFavorite adapter;
     private List<String> channelLink = new ArrayList<String>();

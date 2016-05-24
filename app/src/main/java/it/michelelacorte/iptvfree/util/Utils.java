@@ -1,8 +1,6 @@
 package it.michelelacorte.iptvfree.util;
 
-import android.Manifest;
 import android.app.Activity;
-import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.pm.PackageManager;
@@ -22,29 +20,11 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.Toast;
-
 import com.miguelcatalan.materialsearchview.MaterialSearchView;
-
-import org.apache.http.HttpEntity;
-import org.apache.http.HttpResponse;
-import org.apache.http.client.methods.HttpGet;
-import org.apache.http.entity.BufferedHttpEntity;
-import org.apache.http.impl.client.DefaultHttpClient;
-
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
 import it.michelelacorte.iptvfree.MainActivity;
 import it.michelelacorte.iptvfree.R;
-import it.michelelacorte.iptvfree.fragment.FragmentIPTV;
 import it.michelelacorte.iptvfree.m3u.M3UData;
 import it.michelelacorte.iptvfree.sd_reader.FileOperation;
 import it.michelelacorte.iptvfree.sd_reader.FileSelector;
@@ -244,7 +224,10 @@ public class Utils {
                 activity.getResources().getString(R.string.intro_fab), activity.getResources().getString(R.string.intro_understand));
 
         sequence.addSequenceItem(tabLayout,
-                activity.getResources().getString(R.string.intro_tab), activity.getResources().getString(R.string.intro_understand));
+                activity.getResources().getString(R.string.intro_tab_1), activity.getResources().getString(R.string.intro_understand));
+
+        sequence.addSequenceItem(tabLayout,
+                activity.getResources().getString(R.string.intro_tab_2), activity.getResources().getString(R.string.intro_understand));
 
         sequence.addSequenceItem(searchView,
                 activity.getResources().getString(R.string.intro_search), activity.getResources().getString(R.string.intro_understand));

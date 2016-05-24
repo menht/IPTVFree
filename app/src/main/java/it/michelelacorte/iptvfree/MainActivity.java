@@ -529,7 +529,30 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
             boolean isInstalledMXPlayer = Utils.isPackageInstalled("com.mxtech.videoplayer.ad", pm);
             boolean isInstalledXMTVPlayer = Utils.isPackageInstalled("com.xmtvplayer.watch.live.streams", pm);
             //Check if MXPlayer is installed, it is necessary!
-            if(isInstalledMXPlayer || isInstalledXMTVPlayer) {
+            if(!isInstalledMXPlayer && !isInstalledXMTVPlayer) {
+                    Spanned alertText = null;
+                    if(Locale.getDefault().getDisplayLanguage().equalsIgnoreCase("English"))
+                    {
+                        alertText = Html.fromHtml("Please install a media player to use IPTV Free. \n\n\nWe suggest you <a href=\"https://github.com/michelelacorte/IPTVFree/raw/master/xmtvplayer.apk\">XMTV Player</a> or <a href=\"https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=it\">MX Player</a>");
+                    }
+                    if(Locale.getDefault().getDisplayLanguage().equalsIgnoreCase("Italiano"))
+                    {
+                        alertText = Html.fromHtml("Per favore installa un lettore multimediale per utilizzare IPTV Free. \n\n\nTi consigliamo <a href=\"https://github.com/michelelacorte/IPTVFree/raw/master/xmtvplayer.apk\">XMTV Player</a> oppure <a href=\"https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=it\">MX Player</a>");
+                    }
+                    ((TextView) new AlertDialog.Builder(this, R.style.AlertDialogCustom)
+                            .setTitle(getResources().getString(R.string.app_name))
+                            .setMessage(alertText)
+                            .setCancelable(false)
+                            .setPositiveButton(getResources().getString(R.string.ok_dialog), new DialogInterface.OnClickListener() {
+                                @Override
+                                public void onClick(DialogInterface dialog, int which) {
+                                    //No operation
+                                }
+                            })
+                            .show()
+                            .findViewById(android.R.id.message))
+                            .setMovementMethod(LinkMovementMethod.getInstance());
+            }
                 if(FirstRun.isFirstLaunch(getApplicationContext())) {
                     //Show disclaimer
                     disclaimerAlertDialog();
@@ -854,30 +877,6 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
                 tabLayout.setupWithViewPager(viewPager);
 
                 Utils.tutorialView(this, "IPTVFreeIntroView", toolbar, fabMenu, tabLayout, viewPager, searchView);
-            }else{
-                Spanned alertText = null;
-                if(Locale.getDefault().getDisplayLanguage().equalsIgnoreCase("English"))
-                {
-                    alertText = Html.fromHtml("Please install a media player to start IPTV Free. \n\n We suggest you <a href=\"https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=it\">MX Player</a>");
-                }
-                if(Locale.getDefault().getDisplayLanguage().equalsIgnoreCase("Italiano"))
-                {
-                   alertText = Html.fromHtml("Per favore installa un lettore multimediale per avviare IPTV Free. \n\n Ti consigliamo <a href=\"https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=it\">MX Player</a>");
-                }
-                ((TextView) new AlertDialog.Builder(this, R.style.AlertDialogCustom)
-                        .setTitle(getResources().getString(R.string.app_name))
-                        .setMessage(alertText)
-                        .setCancelable(false)
-                        .setNegativeButton(getResources().getString(R.string.ok_dialog), new DialogInterface.OnClickListener() {
-                            @Override
-                            public void onClick(DialogInterface dialog, int which) {
-                                finish();
-                            }
-                        })
-                        .show()
-                        .findViewById(android.R.id.message))
-                        .setMovementMethod(LinkMovementMethod.getInstance());
-            }
         }else{
             AlertDialog.Builder builder =
                     new AlertDialog.Builder(this, R.style.AlertDialogCustom);

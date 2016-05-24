@@ -73,13 +73,15 @@
     <string name="intro_understand">Ho capito!</string>
     <string name="intro_navbar">Usa il menù laterale per scorrere nelle varie categorie dell\'IPTV!</string>
     <string name="intro_fab">Usa questo bottone per aggiungere o scaricare playlist!</string>
-    <string name="intro_tab">Queste sono le varie categorie di video che potrai vedere ogni giorno!\nQui troverai tutti i canali disponibili per la categoria, ti basterà cliccare sopra per avviarlo!</string>
+    <string name="intro_tab_1">Queste sono le varie categorie di video che potrai vedere ogni giorno!</string>
+    <string name="intro_tab_2">Qui troverai tutti i canali disponibili per la categoria, ti basterà cliccare sopra per avviarlo!</string>
     <string name="intro_search">Puoi cercare il tuo canale cliccando l\'icona della lente di ingrandimento e scrivendo il nome!</string>
     <!-- Disclaimer Dialog -->
     <string name="disclaimer_dialog_yes">SI</string>
     <string name="disclaimer_dialog_no">NO</string>
-    <string name="disclaimer_dialog_message">Benvenuto in IPTVFree!\nQuesta app è totalmente gratuita, non ci sono pubblicità, si prega di aiutare gli sviluppatori votando positivamente!\nGli sviluppatori non si assumono nessuna responsabilità dell\'utilizzo che ne farete.</string>
+    <string name="disclaimer_dialog_message">Benvenuto in IPTVFree!\n\nQuesta app è totalmente gratuita, non ci sono pubblicità, si prega di aiutare gli sviluppatori votando positivamente!\nGli sviluppatori non si assumono nessuna responsabilità dell\'utilizzo che ne farete, questa app è SOLO a scopo informativo.</string>
     <string name="disclaimer_link">Fonte dello streaming:</string>
+    <string name="disclaimer_channel">Stai per avviare lo streaming di un canale a pagamento.\nContinuando sei consapevole dei rischi.</string>
     <!-- Fab menu text -->
     <string name="fab_download">Download PlayList</string>
     <string name="fab_add">Aggiungi PlayList</string>
