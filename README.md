@@ -49,6 +49,7 @@ Android API 14+
 - All player supported
 - Fixed tutorial issue with low density screen
 - Added link to XMTV Player (best media player)
+- Improved code review from B to A on Codacy
 
 
 **v1.0.0**
