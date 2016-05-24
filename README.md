@@ -44,6 +44,12 @@ Android API 14+
 
 ##CHANGELOG
 
+**v1.0.1 (Coming Soon!)**
+
+- All player supported
+- Fixed tutorial issue with low density screen
+
+
 **v1.0.0**
 
 - Possibility to load custom playlist `(.m3u, .m3u8)` from SD and URL in `My List` category
