@@ -44,7 +44,7 @@ Android API 14+
 
 ##CHANGELOG
 
-**v1.0.1 (Coming Soon!)**
+**v1.0.1**
 
 - All player supported
 - Fixed tutorial issue with low density screen
