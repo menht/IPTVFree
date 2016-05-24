@@ -47,7 +47,7 @@ public class LoadClickListener implements OnClickListener {
 		}
 	}
 
-	boolean checkFileName(String text) {
+	private boolean checkFileName(String text) {
 		if (text.length() == 0) {
 			final AlertDialog.Builder builder = new AlertDialog.Builder(mContext);
 			builder.setTitle(R.string.information);

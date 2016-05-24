@@ -36,7 +36,7 @@ public class FileSelector {
 	private File mCurrentLocation;
 	private final Dialog mDialog;
 	private Context mContext;
-	final OnHandleFileListener mOnHandleFileListener;
+	private final OnHandleFileListener mOnHandleFileListener;
 
 	public FileSelector(final Context context, final FileOperation operation,
 			final OnHandleFileListener onHandleFileListener, final String[] fileFilters) {

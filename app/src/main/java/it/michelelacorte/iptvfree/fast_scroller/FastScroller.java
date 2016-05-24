@@ -2,7 +2,6 @@ package it.michelelacorte.iptvfree.fast_scroller;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
-import android.animation.AnimatorSet;
 import android.animation.ObjectAnimator;
 import android.content.Context;
 import android.support.annotation.IdRes;
@@ -108,6 +107,8 @@ public class FastScroller extends LinearLayout {
                 handle.setSelected(false);
                 hideBubble();
                 return true;
+            default:
+                break;
         }
         return super.onTouchEvent(event);
     }

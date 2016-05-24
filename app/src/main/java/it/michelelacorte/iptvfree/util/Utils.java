@@ -93,11 +93,11 @@ public class Utils {
     {
         return  "SDK: " + Build.VERSION.SDK_INT + "\n" +
                 "RELEASE: " + Build.VERSION.RELEASE + "\n" +
-                "DEVICE: " + android.os.Build.DEVICE + "\n" +
+                "DEVICE: " + Build.DEVICE + "\n" +
                 "OS VERSION: " + System.getProperty("os.version") + "\n" +
                 "OS NAME: " + System.getProperty("os.name") + "\n" +
-                "MODEL: " + android.os.Build.MODEL + "\n" +
-                "PRODUCT: " + android.os.Build.PRODUCT + "\n"+
+                "MODEL: " + Build.MODEL + "\n" +
+                "PRODUCT: " + Build.PRODUCT + "\n"+
                 "BRAND: " + Build.BRAND + "\n" +
                 "HARDWARE: " + Build.HARDWARE + "\n" +
                 "BOARD: " + Build.BOARD + "\n";

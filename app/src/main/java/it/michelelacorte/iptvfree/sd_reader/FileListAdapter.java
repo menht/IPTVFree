@@ -79,6 +79,8 @@ public class FileListAdapter extends BaseAdapter {
 			imgRes = R.drawable.ic_insert_drive_file_black_24dp;
 			break;
 		}
+		default:
+			break;
 		}
 		tempView.setImageResource(imgRes);
 		return tempView;
